@@ -1,7 +1,7 @@
-Testing
+Testing : 
 	I ran test cases covering the sample inputs first. In addition I also ensured that the rules containing improper format for direction and protocol fields and out of range values for ports and addresses are blocked. 
 
-Code explanation:
+Code explanation :
 	I have structured my code into 4 classes (Firewall, Rule, Port and IpAddress):
 		
 	1) Firewall:
